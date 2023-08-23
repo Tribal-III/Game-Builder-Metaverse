@@ -48,49 +48,49 @@ you can find more issues [here](https://github.com/TribaliiiGameDevelopment/Crea
     <td>
       <a href="Github link" target="_blank">
         <img src='Github Avatar' alt='' width='100px'>
-        <p align='center'>Christian Darlington</p>
+        <p align='center'>Christian D.</p>
       </a>
     </td>
     <td>
       <a href="Github link" target="_blank">
         <img src='Github Avatar' alt='' width='100px'>
-        <p align='center'>Austyn Slavych</p>
+        <p align='center'>Austyn S.</p>
       </a>
     </td>
     <td>
       <a href="Github link" target="_blank">
         <img src='Github Avatar' alt='' width='100px'>
-        <p align='center'>Kaia Guan</p>
+        <p align='center'>Kaia G.</p>
       </a>
     </td>
     <td>
       <a href="Github link" target="_blank">
         <img src='Github Avatar' alt='' width='100px'>
-        <p align='center'>Daniel Philibin</p>
+        <p align='center'>Daniel P.</p>
       </a>
     </td>
     <td>
       <a href="Github link" target="_blank">
         <img src='Github Avatar' alt='' width='100px'>
-        <p align='center'>Janine Kong</p>
+        <p align='center'>Janine K.</p>
       </a>
     </td>
     <td>
       <a href="Github link" target="_blank">
         <img src='Github Avatar' alt='' width='100px'>
-        <p align='center'>Brandon Cay</p>
+        <p align='center'>Brandon C.</p>
       </a>
     </td>
     <td>
       <a href="Github link" target="_blank">
         <img src='Github Avatar' alt='' width='100px'>
-        <p align='center'>Trung Lam</p>
+        <p align='center'>Trung L.</p>
       </a>
     </td>
     <td>
       <a href="Github link" target="_blank">
         <img src='Github Avatar' alt='' width='100px'>
-        <p align='center'>Jihad Beydoun</p>
+        <p align='center'>Jihad B.</p>
       </a>
     </td>
   </tr>
@@ -99,19 +99,19 @@ you can find more issues [here](https://github.com/TribaliiiGameDevelopment/Crea
     <td>
       <a href="Github link" target="_blank">
         <img src='Github Avatar' alt='' width='100px'>
-        <p align='center'>Dylan Graham</p>
+        <p align='center'>Dylan G.</p>
       </a>
     </td>
    <td>
       <a href="Github link" target="_blank">
         <img src='Github Avatar' alt='' width='100px'>
-        <p align='center'>Jasmine Bailey</p>
+        <p align='center'>Jasmine B.</p>
       </a>
     </td>
     <td>
      <a href="Github link" target="_blank">
         <img src='Github Avatar' alt='' width='100px'>
-        <p align='center'>Ikechukwu onochie</p>
+        <p align='center'>Ikechukwu o.</p>
       </a>
     </td>
     <td>
