@@ -4,13 +4,14 @@
 </p>
 
 <p align="center">
-<a href="https://gotm.io/tribaliii/creationgame">
+<a href="https://gotm.io/tribal/game-builder-metaverse">
 <img src="https://img.shields.io/badge/Demo-Play%20Now-yellow.svg" />
-<a href="https://github.com/TribaliiiGameDevelopment/CreationGame/releases/tag/demo">
+<a href="https://drive.google.com/file/d/1HJMQ3yvSYTD2r9mb22x5BDEYEVSi-K7_/view?usp=drivesdk">
 <img src="https://img.shields.io/badge/Download-Windows-brightgreen.svg" />
 </a>
 </a>
-<img src="https://img.shields.io/badge/Sponsor-coming_soon-brightgreen" />
+href="https://github.com/sponsors/Tribal-III">
+<img src="https://img.shields.io/badge/Sponsor-Projects-brightgreen" />
 </p>
 
 ## Mission Statement
@@ -21,9 +22,9 @@ The Gamebuilder Metaverse aims to engage web 2.0 networks of creators with scala
 
 Play our demo and learn how to get started:
 
-- [Play the Demo](https://gotm.io/tribaliii/creationgame)
-- Follow these steps to start the demo:
-  1. Step 1: Download the demo from [here](https://github.com/TribaliiiGameDevelopment/CreationGame/releases/tag/demo)
+- [Play the Demo](https://gotm.io/tribal/game-builder-metaverse)
+- Follow these steps to start the Game:
+  1. Step 1: Download the Game from [here](https://drive.google.com/file/d/1HJMQ3yvSYTD2r9mb22x5BDEYEVSi-K7_/view?usp=drivesdk)
   2. Step 2: Unzip it with your favorite extraction software
   3. Step 3: Play and have fun!
 
