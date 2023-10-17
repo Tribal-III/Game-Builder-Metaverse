@@ -32,7 +32,7 @@ Play our demo and learn how to get started:
 
 [Learn GDScript From Zero](https://gdquest.itch.io/learn-godot-gdscript).
 
-[install gdtoolkit](https://www.gdquest.com/tutorial/godot/gdscript/gdscript-formatter/).
+[Install GDToolkit](https://www.gdquest.com/tutorial/godot/gdscript/gdscript-formatter/).
 
 Please contribute using [GitHub Flow](https://guides.github.com/introduction/flow). Create a branch, add commits, and [open a pull request](https://github.com/rahuldkjain/github-profile-readme-generator/compare).
 
